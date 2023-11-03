@@ -1,25 +1,29 @@
-### Hi 👋, I am Matia Choi!
+# Hi 👋, I am Matia Choi!
 
 ---
 
-I am a Sophomore studying Electrical and Computer Engineering at the University of Illinois Urbana Champaign. 
-<!--
-A Software Engineer specializing in JavaScript technologies and AWS. Professional experience with the technologies listed in the **toolbox** below.
-
-I create tech content, mostly about Web Development and JavaScript, **but** I also talk about other topics than coding. I'd advise you to subscribe to stay up-to-date!
-
-I managed to create an online presence with my [Blog](https://catalins.tech) and [YouTube](https://catalins.tech/youtube) channel, which are accessed by more than 3500 people monthly. Looking forward to reaching and helping more people by sharing my knowledge.
--->
+I'm a sophomore studying Electrical and Computer Engineering at the University of Illinois Urbana Champaign with a focus on Hardware Systems (computer architecture, FPGA, system-on-chip design, etc..). I am also interested in robotics, semiconductors, and web development.
 
 ---
+## 🧰 My Toolbox
 
-🧰 Toolbox
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,java,r,py,tensorflow,svelte,react,nextjs,firebase,postman,nodejs,tailwind,vim,vscode,unity,arduino,raspberrypi,latex)](https://skillicons.dev)
 
 ---
+## 📚 Relevant Coursework
+- ECE 210: Analog Signal Processing
+- ECE 220: Computer Systems and Programming
+- MATH 285: Differential Equations
+- MATH 213: Discrete Math
+- STAT 400: Probability and Statistics
+  
+**Next Semester**
+- ECE 385: Digital Systems Laboratory
+- ECE 313: Probability with Engineering Applications
+- ECE 470: Introduction to Robotics
+- CS 225: Data Structures
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **matia6170/matia6170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
