@@ -9,7 +9,7 @@ I'm a sophomore studying Electrical and Computer Engineering at the University o
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,java,r,py,tensorflow,svelte,react,nextjs,firebase,postman,nodejs,tailwind,vim,vscode,unity,arduino,raspberrypi,latex)](https://skillicons.dev)
 
----
+<!---
 ## 📚 Relevant Coursework
 - ECE 210: Analog Signal Processing
 - ECE 220: Computer Systems and Programming
