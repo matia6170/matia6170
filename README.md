@@ -2,7 +2,7 @@
 
 ---
 
-I'm a sophomore studying Electrical and Computer Engineering at the University of Illinois Urbana Champaign with a focus on Hardware Systems (computer architecture, FPGA, system-on-chip design, etc..). I am also interested in robotics, semiconductors, and web development.
+I'm studying Computer Engineering at the University of Illinois Urbana Champaign.
 
 ---
 ## 🧰 My Toolbox
